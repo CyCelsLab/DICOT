@@ -28,6 +28,7 @@ Alternatively, you may open the interface directly by double clicking the dicot.
 3. As a standalone app
 Download the DICOT_1_standalone folder. You will need to download the MATLAB Runtime Compiler (MCR) for R2019b for your particular OS. You will find it here:
 https://in.mathworks.com/products/compiler/matlab-runtime.html
+
 Follow the installation instructions and run DICOT as a standalone app.
 
 NOTE: Please resize or scroll the app in case it does not display optimally on your screen.
