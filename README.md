@@ -1,14 +1,19 @@
 DICOT is a MATLAB-based software developed for 2D particle tracking in DIC images. 
 
-Authors: Anushree Chaphalkar, Yash Jawale, Dhruv Khatri, Chaitanya Athale.
+Authors: Anushree Chaphalkar, Yash Jawale, Dhruv Khatri, Chaitanya Athale
 
 Last update: 07.09.2020
+
 •	Website:  http://www.iiserpune.ac.in/~cathale/?page_id=366
+
 •	Source code:  https://github.com/Self-OrganizationLab/DICOT_GUI
 
 Versions and requirements:
+
 Version 1.0 
+
 •	MATLAB R2019b or higher
+
 •	Toolboxes – Image Processing, Statistics, Curve Fitting
 
 Installation is possible in 3 ways:
