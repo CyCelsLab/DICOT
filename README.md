@@ -1,5 +1,9 @@
-# DICOT
-__DICOT__ is a MATLAB-based software developed for 2D particle tracking in DIC images  
+
+<p align="center">
+<img src="dicot_highres_t.png" width="300"/>
+</p>
+
+__DICOT__, a MATLAB-based software developed for 2D particle tracking in DIC images  
 Authors: Anushree Chaphalkar, [Yash Jawale](@ykjawale), Dhruv Khatri, Chaitanya Athale
 
 ![GitHub release](https://img.shields.io/github/v/release/ykjawale/DICOT?style=for-the-badge)
