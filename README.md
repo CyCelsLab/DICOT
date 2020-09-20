@@ -2,11 +2,11 @@ DICOT is a MATLAB-based software developed for 2D particle tracking in DIC image
 
 Authors: Anushree Chaphalkar, Yash Jawale, Dhruv Khatri, Chaitanya Athale
 
-Last update: 07.09.2020
+Last update: 20.09.2020
 
 •	Website:  http://www.iiserpune.ac.in/~cathale/?page_id=366
 
-•	Source code:  https://github.com/Self-OrganizationLab/DICOT_GUI
+•	Source code:  https://github.com/Self-OrganizationLab/DICOT
 
 Versions and requirements:
 
@@ -17,12 +17,12 @@ Version 1.0
 •	Toolboxes – Image Processing, Statistics, Curve Fitting
 
 Installation is possible in 2 ways:
-1. As a MATLAB App
+1. As a MATLAB App:
 Download and run the DICOT.mlappinstall file on your machine. The DICOT app gets installed in the ‘Apps’ section of your MATLAB environment.
 
-2. As source code
+2. As source code:
 Download the entire DICOT_GUI folder from GitHub and add it to your MATLAB path.
-Type the command run dicot.mlapp will open the DICOT interface.
+Type the command run dicot.mlapp to open the DICOT interface.
 Alternatively, you may open the interface directly by double clicking the dicot.mlapp file in the downloaded folder.  
 
 
