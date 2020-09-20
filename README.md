@@ -8,8 +8,6 @@ Authors: Anushree Chaphalkar, [Yash Jawale](@ykjawale), Dhruv Khatri, Chaitanya 
 
 ![GitHub release](https://img.shields.io/github/v/release/ykjawale/DICOT?style=for-the-badge)
 
-[DICOT GUI](https://github.com/CyCelsLab/DICOT), with a GUI also available
-
 ### Reference
 __Quantifying Intracellular Particle Flows by DIC Object Tracking (DICOT)__  
 A. R. Chaphalkar, Y. K. Jawale, D. Khatri, and C. A. Athale  
