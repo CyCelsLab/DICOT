@@ -66,7 +66,8 @@ __Workflow__
     * `Object type` _White_ or _Black_ on background
     * `Kernel size` size of kernel (typically ≥ object size)
     * `Sigma` standard deviation of filter
-    * `Sensitivity` tunes detection (for `SoG`)
+    * `Sensitivity` tunes detection (for `SoG`)  
+    
     Detection can be done using,
     ```
     Operations > Detect Objects
@@ -74,12 +75,13 @@ __Workflow__
 * Tracking  
     Parameters
     * `Search radius` a threshold distance for linking centroids (approximate distance moved by objects in between two frames)
-    * `Minimum track time` only tracks spanning greater than threshold are retained
+    * `Minimum track time` only tracks spanning greater than threshold are retained  
+    
     Tracking can be done using,
     ```
     Operations > Track Objects
     ```
-* Quantification  :chart_with_upwards_trend:
+* Quantification  :chart_with_upwards_trend:  
     Statistics :bar_chart: can be obtained using,
     ```
     Operations > Statistics
