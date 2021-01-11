@@ -19,7 +19,7 @@ A. R. Chaphalkar, Y. K. Jawale, D. Khatri, and C. A. Athale
 DOI: [10.1016/j.bpj.2020.12.013](https://doi.org/10.1016/j.bpj.2020.12.013)
 
 Links
- * [Source code](https://github.com/Self-OrganizationLab/DICOT)  
+ * [Source code](https://github.com/CyCelsLab/DICOT)  
  * [CyCelS Software](http://www.iiserpune.ac.in/~cathale/?page_id=366)  
 
 ### Versions and requirements
