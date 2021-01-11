@@ -16,7 +16,7 @@ Authors: Anushree Chaphalkar, [Yash Jawale](@ykjawale), Dhruv Khatri, Chaitanya 
 ### Reference
 __Quantifying Intracellular Particle Flows by DIC Object Tracking (DICOT)__  
 A. R. Chaphalkar, Y. K. Jawale, D. Khatri, and C. A. Athale  
-DOI: [...](doi.org/...)
+DOI: [10.1016/j.bpj.2020.12.013](https://doi.org/10.1016/j.bpj.2020.12.013)
 
 Links
  * [Source code](https://github.com/Self-OrganizationLab/DICOT)  
